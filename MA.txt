@@ -6,4 +6,6 @@ var e =500
 var f =600
 var e =700
 var g =800
+sum of integer
+sum of numbers 
 
