@@ -1,0 +1,5 @@
+Branches concept 
+I am creating Branches from git hubb.
+then I to give command "Git log --oneline "
+Changes to be done.
+up to date changes.
