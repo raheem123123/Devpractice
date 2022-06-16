@@ -5,3 +5,6 @@ Communications
 load Balancer
 Fetch 
 pull
+Coding 
+De-Coding 
+Merge
