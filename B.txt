@@ -1,5 +1,10 @@
 Branches concept 
 I am creating Branches from git hubb.
 then I to give command "Git log --oneline "
+<<<<<<< HEAD
 Changes to be done.
 up to date changes.
+=======
+nothing to do it.
+everything upto date.
+>>>>>>> 0a28fa64bafa8ba346eac05ac7432e082f7fa9db
